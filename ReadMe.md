@@ -1,7 +1,9 @@
+#heading
 SARIMA Temperature Prediction Model
+
 This repository contains a Python implementation of a seasonal autoregressive integrated moving average (SARIMA) model for temperature prediction. The SARIMA model is a popular time series forecasting technique that is commonly used to analyze data that exhibits seasonal trends and patterns. In this implementation, we use the SARIMA model to predict future temperatures based on historical temperature data.
 
-Data
+##Data
 The data used in this implementation is included in the repository in the file temperature.csv. The data consists of temperature measurements taken at regular intervals over a period of several years. We will use this data to train the SARIMA model and to make temperature predictions.
 
 Time Series Stationarity
